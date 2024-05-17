@@ -30,7 +30,7 @@ https://github.com/RepinAndrey/sys-pattern-homework/commit/c533f2633bb05096ceaa8
 
 ### Задание 2
 
-https://github.com/RepinAndrey/sys-pattern-homework/commit/0f047f5b7137fd49b2efbcb6a47f07a7d31f2a38
+https://github.com/RepinAndrey/sys-pattern-homework/commit/2877b6daaf0b15c35455e062f0f53a821aa0ba02
 
 ---
 
