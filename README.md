@@ -25,6 +25,10 @@
 ### Задание 1
 
 Изменение README.md
+https://github.com/RepinAndrey/sys-pattern-homework/commit/c533f2633bb05096ceaa8dd178e3dc40ce9bfb0e
+
+c533f2633bb05096ceaa8dd178e3dc40ce9bfb0e
+
 `Приведите ответ в свободной форме........`
 
 1. `Заполните здесь этапы выполнения, если требуется ....`
