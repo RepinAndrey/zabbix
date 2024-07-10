@@ -11,7 +11,7 @@
 В веб-интерфейсе Zabbix Servera в разделе Templates создайте новый шаблон
 Создайте Item который будет собирать информацию об загрузке CPU в процентах
 Создайте Item который будет собирать информацию об загрузке RAM в процентах
-[скриншот ](https://github.com/RepinAndrey/zabbix-2/blob/main/img/1.png)
+[скриншот ](https://github.com/RepinAndrey/zabbix/blob/main/img/1.png)
 
 ### Задание 2
 Добавьте в Zabbix два хоста и задайте им имена <фамилия и инициалы-1> и <фамилия и инициалы-2>. 
@@ -25,10 +25,10 @@
 Зайдите в настройки каждого хоста и в разделе Templates прикрепите к этому хосту ваш шаблон
 Так же к каждому хосту привяжите шаблон Linux by Zabbix Agent
 Проверьте что в раздел Latest Data начали поступать необходимые данные из вашего шаблона
-[скриншот ](https://github.com/RepinAndrey/zabbix-2/blob/main/img/3_1.png)
-[скриншот ](https://github.com/RepinAndrey/zabbix-2/blob/main/img/3_2.png)
+[скриншот ](https://github.com/RepinAndrey/zabbix/blob/main/img/3_1.png)
+[скриншот ](https://github.com/RepinAndrey/zabbix/blob/main/img/3_2.png)
 
 ### Задание 4
 Создайте свой кастомный дашборд.
 
-[скриншот ](https://github.com/RepinAndrey/zabbix-2/blob/main/img/4.png)
+[скриншот ](https://github.com/RepinAndrey/zabbix/blob/main/img/4.png)
