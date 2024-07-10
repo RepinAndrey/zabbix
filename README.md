@@ -25,10 +25,10 @@
 Зайдите в настройки каждого хоста и в разделе Templates прикрепите к этому хосту ваш шаблон
 Так же к каждому хосту привяжите шаблон Linux by Zabbix Agent
 Проверьте что в раздел Latest Data начали поступать необходимые данные из вашего шаблона
-[скриншот ](https://github.com/RepinAndrey/zabbix/blob/main/img/3_1.png)
-[скриншот ](https://github.com/RepinAndrey/zabbix/blob/main/img/3_2.png)
+![скриншот ](https://github.com/RepinAndrey/zabbix/blob/main/img/3_1.png)
+![скриншот ](https://github.com/RepinAndrey/zabbix/blob/main/img/3_2.png)
 
 ### Задание 4
 Создайте свой кастомный дашборд.
 
-[скриншот ](https://github.com/RepinAndrey/zabbix/blob/main/img/4.png)
+![скриншот ](https://github.com/RepinAndrey/zabbix/blob/main/img/4.png)
